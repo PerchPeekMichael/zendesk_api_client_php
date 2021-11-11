@@ -1,5 +1,5 @@
 {
-  "name": "PerchPeekMichael/zendesk_api_client_php",
+  "name": "perchpeekmichael/zendesk_api_client_php",
   "description": "PHP Client for Zendesk REST API. See https://developer.zendesk.com/rest_api/docs/core/introduction . This includes work around for new Guzzle PSR7 call",
   "license": "Apache-2.0",
   "homepage": "https://perchpeek.com",
